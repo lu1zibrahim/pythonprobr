@@ -94,7 +94,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
+PACKAGE = "libpythonpro-lu1zibra"
 NAME = PACKAGE
 DESCRIPTION = "Criando esse repositório, como parte do curso Python Pro BR - Pytools"
 AUTHOR = "Luiz Ibrahim"
@@ -106,8 +106,8 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read('README.md'),
-    long_description_content_type='text/markdown',
+    long_description=read('README.rst'),
+    long_description_content_type='text/x-rst',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=read('LICENSE'),
