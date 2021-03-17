@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Inserido o link do curso Python Pro [Python Pro](https://www.python.pro.br)
 
+[![Build Status](https://travis-ci.org/lu1zibrahim/libpythonpro.svg?branch=main)](https://travis-ci.org/lu1zibrahim/libpythonpro)
+
 Superta a versão 3 do Python(Utilizada python 3.9)
 Para Instalar:
 '''console
