@@ -28,6 +28,8 @@ flake8
 
 [![Updates](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
 
+[![Python 3](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
+
 
 
 Tópicos a serem abordados:
