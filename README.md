@@ -6,6 +6,16 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Inserido o link do curso Python Pro [Python Pro](https://www.python.pro.br)
 
 Superta a versão 3 do Python(Utilizada python 3.9)
+Para Instalar:
+'''console
+python -m venv venv
+source venv/Scripts/activate
+pip install - requirements-dev.txt
+'''
+Para conferir qualidade de código:
+'''console
+flake8
+'''
 
 Tópicos a serem abordados:
 1. Git
