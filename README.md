@@ -30,6 +30,10 @@ flake8
 
 [![Python 3](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
 
+CodeCov
+
+[![codecov](https://codecov.io/gh/lu1zibrahim/libpythonpro/branch/main/graph/badge.svg?token=HSFUJKYP04)](https://codecov.io/gh/lu1zibrahim/libpythonpro)
+
 
 
 Tópicos a serem abordados:
