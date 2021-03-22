@@ -6,6 +6,10 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Inserido o link do curso Python Pro [Python Pro](https://www.python.pro.br)
 
 [![Build Status](https://travis-ci.org/lu1zibrahim/libpythonpro.svg?branch=main)](https://travis-ci.org/lu1zibrahim/libpythonpro)
+[![Updates](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
+[![codecov](https://codecov.io/gh/lu1zibrahim/libpythonpro/branch/main/graph/badge.svg?token=HSFUJKYP04)](https://codecov.io/gh/lu1zibrahim/libpythonpro)
+
 
 Superta a versão 3 do Python(Utilizada python 3.9)
 Para Instalar:
@@ -24,16 +28,6 @@ Para conferir qualidade de código:
 '''console
 flake8
 '''
-
-
-[![Updates](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
-
-[![Python 3](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lu1zibrahim/libpythonpro/)
-
-CodeCov
-
-[![codecov](https://codecov.io/gh/lu1zibrahim/libpythonpro/branch/main/graph/badge.svg?token=HSFUJKYP04)](https://codecov.io/gh/lu1zibrahim/libpythonpro)
-
 
 
 Tópicos a serem abordados:
