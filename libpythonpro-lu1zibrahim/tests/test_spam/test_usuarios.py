@@ -3,7 +3,7 @@ from spam.modelos import Usuario
 def test_salvar_usuario(sessao):
     usuario = Usuario(nome="Luiz", email='luizibrahim@yahoo.com.br')
     sessao.salvar(usuario)
-    assert isinstance(usuario.id,int)
+    assert isinstance(usuario.id, int)
 
 
 
