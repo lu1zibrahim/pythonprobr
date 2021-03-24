@@ -2,7 +2,7 @@ from unittest.mock import Mock
 
 import pytest
 
-import github_api
+from libpythonpro_lu1zibrahim import github_api
 
 
 
