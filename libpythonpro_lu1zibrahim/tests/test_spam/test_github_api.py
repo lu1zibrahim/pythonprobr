@@ -5,8 +5,6 @@ import pytest
 from libpythonpro_lu1zibrahim import github_api
 
 
-
-
 @pytest.fixture
 def avatar_url(mocker):
     resp_mock = Mock()
@@ -18,6 +16,7 @@ def avatar_url(mocker):
     get_mock = mocker.patch('libpythonpro_lu1zibrahim.github_api.requests.get')
     get_mock.return_value = resp_mock
     return url
+
 
 def test_buscar_avatar(avatar_url):
     url = github_api.buscar_avatar('lu1zibrahim')
