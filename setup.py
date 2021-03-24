@@ -94,7 +94,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro-lu1zibrahim"
+PACKAGE = "libpythonpro_lu1zibrahim"
 NAME = PACKAGE
 DESCRIPTION = "Criando esse repositório, como parte do curso Python Pro BR - Pytools"
 AUTHOR = "Luiz Ibrahim"
