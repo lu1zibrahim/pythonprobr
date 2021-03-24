@@ -1,10 +1,10 @@
 from libpythonpro_lu1zibrahim.spam.modelos import Usuario
 
+
 def test_salvar_usuario(sessao):
     usuario = Usuario(nome="Luiz", email='luizibrahim@yahoo.com.br')
     sessao.salvar(usuario)
     assert isinstance(usuario.id, int)
-
 
 
 def test_listar_usuario(sessao):
